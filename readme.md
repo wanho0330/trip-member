@@ -2,6 +2,9 @@
 
 이 프로젝트는 Spring Boot를 기반으로 한 Java 웹 애플리케이션으로, 데이터베이스 연동, 보안, 캐싱, 메시징 등의 기능을 제공합니다.
 
+## 구성도
+![image](https://github.com/user-attachments/assets/3202a9b2-45e4-4f3c-85bc-c3e36c64cda1)
+
 ## 요구사항
 
 ```plaintext
@@ -120,14 +123,3 @@ cd trip-application
    - Spring Boot DevTools를 활용하여 개발 중 핫 리로드 지원.
 ```
 
-## 기여 방법
-
-```plaintext
-이 레포지토리를 포크한 후 수정 사항을 적용하여 Pull Request를 제출하세요.
-기여하기 전에 프로젝트의 기여 가이드를 참고하세요.
-```
-
-## 라이선스
-
-```plaintext
-이 프로젝트는 MIT 라이선스를 따릅니다. 자세한 내용은 LICENSE 파일을 참고하세요.
